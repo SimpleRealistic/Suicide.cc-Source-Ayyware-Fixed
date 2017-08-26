@@ -4,6 +4,9 @@
 #include "Resolvermeme.h"
 #include "MiscDefinitions.h"
 #include "Entities.h"
+
+int Globals::Shots = 0;
+bool Globals::change;
 CUserCmd* Globals::UserCmd;
 int Globals::TargetID;
 IClientEntity* Globals::Target;
