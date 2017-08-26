@@ -1,0 +1,35 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (WarmHook.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AntiAntiAim.cpp
+  Autowall.cpp
+  Chams.cpp
+  Controls.cpp
+  CRC32.cpp
+  DLLMain.cpp
+  Dumping.cpp
+  Entities.cpp
+  ESP.cpp
+  GUI.cpp
+  Hacks.cpp
+  Hooks.cpp
+  ReflectiveLoader.cpp
+  Interfaces.cpp
+  LegitBot.cpp
+  MathFunctions.cpp
+  Menu.cpp
+  MetaInfo.cpp
+  MiscHacks.cpp
+  NetVarManager.cpp
+  NetVars.cpp
+  Offsets.cpp
+  RageBot.cpp
+  RenderManager.cpp
+  SpoofedConvar.cpp
+  tinyxml2.cpp
+  UTIL Functions.cpp
+  Utilities.cpp
+  Visual.cpp
+  Window.cpp
+     Creating library ..\Suicide.cc.lib and object ..\Suicide.cc.exp
+  AYYWARE CSGO.vcxproj -> C:\Users\Eagle\Desktop\SUICIDE_CC_MAIN_VERSION\AYYWARE CSGO\..\Suicide.cc.dll
+  AYYWARE CSGO.vcxproj -> ..\Suicide.cc.pdb (Full PDB)
